@@ -1,0 +1,17 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: #333; 
+    color : whitesmoke
+}
+#list{
+        background-color: #2e53cc;
+      width: 400px;
+      height: 100px;
+}
+.group{
+      background-color: #2ecc71;
+      width: 400px;
+      height: 50px;
+}
